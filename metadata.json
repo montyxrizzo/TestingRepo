@@ -1,8 +1,13 @@
 {
   "name": "RAID",
   "symbol": "RAID",
-  "uri": "https://example.com/metadata.json",
-  "sellerFeeBasisPoints": 0,
-  "creators": null,
-  "image": "https://raw.githubusercontent.com/montyxrizzo/TestingRepo/main/2_x_2_logo.png"
+  "image": "https://raw.githubusercontent.com/montyxrizzo/TestingRepo/main/2_x_2_logo.pngg",
+  "seller_fee_basis_points": 0,
+  "description": "A sample RAID token.",
+  "creators": [
+    {
+      "address": "H1SkWxyCZ1tAtSQ3xHaPrW5cs4N1EvJhpc7LCNtDN2sB",
+      "share": 100
+    }
+  ]
 }
